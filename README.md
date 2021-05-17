@@ -62,4 +62,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Berl4n)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
