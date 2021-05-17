@@ -39,11 +39,14 @@ I am an ardent supporter of open source software and support the principles of f
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
+**This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 mins          █████████████████▒░░░░░░░   69.71 % 
-HTML         2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.29 % 
+CyberSecurity   19 mins        69.71 % 
+Programming     3 hours        30.29 %
+Math            30 mins        30.29 %
+English         24 mins        30.29 %
+Robotics        45 mins        30.29 %
 ```
 <!--END_SECTION:waka-->
 
@@ -51,7 +54,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **My Todoist Stats:**
+**My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  7,837 Karma Points           
 🌸  Completed 0 tasks today           
@@ -60,8 +63,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:END -->
 
 
-📈 My GitHub Stats
+**My GitHub Stats**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Berl4n)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Berl4n&show_icons=true&theme=tokyonight" alt="Berl4n" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Berl4n&show_icons=true&theme=tokyonight" alt="Berl4n" />
