@@ -1,4 +1,4 @@
-## root@berl4n:~# [Michael Flechas][youtube]
+## root@berl4n:~# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <!--
