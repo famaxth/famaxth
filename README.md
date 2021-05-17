@@ -21,7 +21,7 @@ Hi, I'm Arseniy Titov, a stubborn self-taught hacker who studies programming lan
 I am an ardent supporter of open source software and support the principles of free speech on the Internet. If you have any interesting ideas for projects, write to me.
 
 
-![me](https://github.com/Berl4n/Berl4n/blob/master/tenor.gif)
+  <img src="https://github.com/Berl4n/Berl4n/blob/master/tenor.gif" alt="я джифка">
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
