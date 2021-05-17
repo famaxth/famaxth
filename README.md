@@ -41,10 +41,10 @@ I am an ardent supporter of open source software and support the principles of f
 
 **This Week I Spent My Time On:**
 ```text
-CyberSecurity    19 mins      69.71 % 
-Programming      3 hours      30.29 %
-Math             30 mins      30.29 %
-English          24 mins      30.29 %
+CyberSecurity    19 mins      48.71 % 
+Programming      3 hours      14.29 %
+Math             30 mins      12.29 %
+English          24 mins      31.29 %
 Robotics         45 mins      30.29 %
 ```
 <!--END_SECTION:waka-->
