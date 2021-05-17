@@ -64,3 +64,14 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Berl4n&show_icons=true&theme=tokyonight" alt="Berl4n" />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Berl4n&show_icons=true&theme=tokyonight" alt="Berl4n" />
+  
+  
+  
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+</a>
