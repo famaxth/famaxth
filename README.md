@@ -9,10 +9,11 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" />
+
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=Berl4n.Berl4n)
 
 <br />
 
@@ -25,8 +26,8 @@ I am an ardent supporter of open source software and support the principles of f
 
 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 📫 How to reach me: [@famaxth](https://t.me/famaxth);
+- 📝 [My Blog](https://t.me/joinchat/lmx7Biw2m-ViMjBi)
 
 **Languages and Tools:**  
 
@@ -52,9 +53,9 @@ Robotics         45 mins      30.29 %
 
 
 **My Personal Stats:**                             
-🏆  7,837 Karma Points                        
-🌸  Completed 0 tasks today                    
-✅  Completed 642 tasks so far                                          
+🏆  Followers 2000+                        
+🌸  7 projects are ready                    
+✅  Completed 1 order so far                                          
 ⏳   Experience about 1 year                               
                              
 
