@@ -21,8 +21,9 @@ Hi, I'm Arseniy Titov, a stubborn self-taught hacker who studies programming lan
 I am an ardent supporter of open source software and support the principles of free speech on the Internet. If you have any interesting ideas for projects, write to me.
 
 
-![gif](https://media.giphy.com/gifs/cat-hacker-webs-o0vwzuFwCGAFO)
-  
+  <img align="right" alt="GIF" src="https://www.itondemand.com/wp-content/uploads/2020/03/IToD_Email-Animation.gif?raw=true" width="500" height="320" />
+
+
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
 - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
