@@ -16,9 +16,9 @@
 
 <br />
 
-Hi, I'm Arseniy Titov, a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Arseniy Titov, a stubborn self-taught hacker who studies programming languages and cybersecurity. Originally from Russia. I've been doing this for about a year now. I really care about the architecture of projects and always take criticism on my side. At the moment, I continue to study development and hacking in general.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am an ardent supporter of open source software and support the principles of free speech on the Internet. If you have any interesting ideas for projects, write to me.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
