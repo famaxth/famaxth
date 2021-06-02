@@ -11,10 +11,6 @@
 <a href="https://t.me/joinchat/lmx7Biw2m-ViMjBi">
   <img align="left" alt="Famaxth's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" />
 </a>
- <a href="https://app.hackthebox.eu/users/531370">
-  <img align="left" alt="Famaxth's HTB" width="22px" src="https://yt3.ggpht.com/ytc/AAUvwnh9LrkBmxxrydInLaJzVtW_cHXhNfNsuNZNon1AoQ=s88-c-k-c0x00ffffff-no-rj" />
-
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=famaxth.famaxth)
 
