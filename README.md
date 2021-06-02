@@ -25,7 +25,7 @@ I am an ardent supporter of open source software and support the principles of f
 
 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@famaxth](https://t.me/famaxth);
+- 📫 How to reach me: [@por0vos1k](https://t.me/por0vos1k);
 - 📝 [My Blog](https://t.me/joinchat/lmx7Biw2m-ViMjBi)
 
 **Languages and Tools:**  
