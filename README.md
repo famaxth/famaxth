@@ -60,9 +60,9 @@ Robotics         45 mins      30.29 %
 **My GitHub Stats**  
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Berl4n&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Famaxth's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=famaxth&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Famaxth's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Berl4n&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=famaxth&layout=compact&theme=material-palenight" />
 </a>
