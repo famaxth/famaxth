@@ -51,9 +51,9 @@ Robotics         45 mins      30.29 %
 
 
 **My Personal Stats:**                             
-🏆  Followers 2000+                        
-🌸  8 projects are ready                    
-✅  Completed 1 order so far                                          
+🏆  Followers 150+                        
+🌸  20 projects are ready                    
+✅  Completed 2 orders so far                                          
 ⏳   Experience about 1 year                               
                              
 
