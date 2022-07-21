@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm Arseniy Titov, a stubborn self-taught hacker who studies programming languages and cybersecurity. Originally from Russia. I've been doing this for about a year now. I really care about the architecture of projects and always take criticism on my side. At the moment, I continue to study development and hacking in general.
+Hi, I'm Arseniy Titov, a stubborn self-taught hacker who studies programming languages and cybersecurity. Originally from Russia. I've been doing this for about two years now. I really care about the architecture of projects and always take criticism on my side. At the moment, I continue to study development and hacking in general.
 
 I am an ardent supporter of open source software and support the principles of free speech on the Internet. If you have any interesting ideas for projects, write to me.
 
@@ -55,7 +55,7 @@ Robotics         45 mins      4.29 %
 🏆  Followers 150+                        
 🌸  32 projects are ready                    
 ✅  Completed 4 orders so far                                          
-⏳   Experience about 1 year                               
+⏳  Experience about 2.5 years                               
                              
 
 **My GitHub Stats**  
