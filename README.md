@@ -52,7 +52,7 @@ Robotics         45 mins      4.29 %
 🏆  Followers 150+                        
 💻  33 projects are ready                    
 ✅  Completed 4 orders so far                                          
-⏳  Experience about 2.5 years                               
+⏳  Experience about 4 years                               
                              
 
 **My GitHub Stats**  
